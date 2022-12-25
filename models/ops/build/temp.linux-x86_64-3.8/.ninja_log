@@ -1,0 +1,4 @@
+# ninja log v5
+0	4076	1670854983398475803	/home/ai2lab/Desktop/sparse-detr/models/ops/build/temp.linux-x86_64-3.8/home/ai2lab/Desktop/sparse-detr/models/ops/src/cpu/ms_deform_attn_cpu.o	1eacd1aa31c9b4de
+0	11789	1670854991110388132	/home/ai2lab/Desktop/sparse-detr/models/ops/build/temp.linux-x86_64-3.8/home/ai2lab/Desktop/sparse-detr/models/ops/src/cuda/ms_deform_attn_cuda.o	3e7ded1632e644e3
+0	15164	1670854994478349822	/home/ai2lab/Desktop/sparse-detr/models/ops/build/temp.linux-x86_64-3.8/home/ai2lab/Desktop/sparse-detr/models/ops/src/vision.o	f41bca2a9458bb8e
